@@ -7,7 +7,7 @@ public class colourrandomizer : MonoBehaviour
     public MeshRenderer MeshRenderer;  
     void Start()
     {
-        MeshRenderer.color = random.ColorHSV();
+        //MeshRenderer.Color = Random.ColorHSV();
     }
 
     // Update is called once per frame
