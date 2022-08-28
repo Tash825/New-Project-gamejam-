@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.13710925, g: 0.14307722, b: 0.16836953, a: 1}
+  m_IndirectSpecularColor: {r: 0.13710326, g: 0.14307159, b: 0.16836542, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1014,7 +1014,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_SendPointerHoverToParent: 1
   m_HorizontalAxis: Horizontal
   m_VerticalAxis: Vertical
   m_SubmitButton: Submit
@@ -2828,7 +2827,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -20.000061, y: -0.00018310547}
+  m_AnchoredPosition: {x: -19.999939, y: -0.00018310547}
   m_SizeDelta: {x: -218.41, y: -118.98}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1273536051
@@ -4998,7 +4997,7 @@ GameObject:
   - component: {fileID: 2422256813760661700}
   m_Layer: 0
   m_Name: yellow
-  m_TagString: not_a_door
+  m_TagString: yellow
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5378,7 +5377,7 @@ GameObject:
   - component: {fileID: 2422256814293709913}
   m_Layer: 0
   m_Name: black
-  m_TagString: not_a_door
+  m_TagString: black
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7377,7 +7376,7 @@ GameObject:
   - component: {fileID: 2422256815529676001}
   m_Layer: 0
   m_Name: green
-  m_TagString: not_a_door
+  m_TagString: green
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7520,7 +7519,7 @@ GameObject:
   - component: {fileID: 2422256815586490115}
   m_Layer: 0
   m_Name: blue
-  m_TagString: not_a_door
+  m_TagString: blue
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
