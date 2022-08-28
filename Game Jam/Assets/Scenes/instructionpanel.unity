@@ -1040,7 +1040,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -9.331299, y: 1.3984985}
+  m_AnchoredPosition: {x: -9.331329, y: 1.3984985}
   m_SizeDelta: {x: -186.0276, y: -137.2607}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &694618007
@@ -1947,6 +1947,18 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
+      - m_Target: {fileID: 11500000, guid: 25c4c7a1820a3b4429b1c718254e6e00, type: 3}
+        m_TargetAssemblyTypeName: UnityEngine.Object, UnityEngine
+        m_MethodName: set_name
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: countdown.Start
+          m_BoolArgument: 0
+        m_CallState: 2
       - m_Target: {fileID: 1175178372}
         m_TargetAssemblyTypeName: sceneloader, Assembly-CSharp
         m_MethodName: instructionpanelbutton
