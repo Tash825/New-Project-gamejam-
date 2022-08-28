@@ -11,6 +11,7 @@ TagManager:
   - blue
   - red
   - yellow
+  - not_a_door
   layers:
   - Default
   - TransparentFX
